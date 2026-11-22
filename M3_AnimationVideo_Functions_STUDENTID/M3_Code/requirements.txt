@@ -1,0 +1,7 @@
+manim>=0.18.0
+manim-voiceover>=0.3.6
+gTTS>=2.4.0
+sympy>=1.12
+pytest>=7.4.0
+numpy>=1.24.0
+reportlab>=4.0.0

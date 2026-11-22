@@ -1,0 +1,20 @@
+# Python & Virtual Environments
+.venv/
+venv/
+ENV/
+env/
+
+# Python byte-code & caches
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+# Manim intermediate render chunks & cache (final M3_Video.mp4 is kept)
+media/
+**/media/
+concat_list.txt
+
+# macOS & OS artifacts
+.DS_Store
+Thumbs.db
